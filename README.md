@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hitenverma1
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m interested in solving business problems through data.
+- 🌱 I’m currently learning Data Analysis/Data Science
 
 - 📫 reach me @ hitenverma1996@gmail.com
 
