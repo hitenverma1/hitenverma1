@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hitenverma1
+- 👋 Hi, I’m Hiten Verma
 - 👀 I’m interested in solving business problems through data.
 - 🌱 I’m currently learning Data Analysis/Data Science
 
