@@ -9,7 +9,7 @@
 
 - 👀 &nbsp; Learning Data Science and Data Analysis,Machine Learning and NLP.
 
-- 🎓 &nbsp; Google Data Analytics Professional Certificate.
+- 🎓 &nbsp; Google Data Analytical Professional Certificate.
 
 - 🌱 &nbsp; Data driven decision maker and Solving business problems through Data.
 
