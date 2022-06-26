@@ -18,9 +18,12 @@
 - 🏢 &nbsp; Experience in Production Planning and control with demonstrating Root cause analysis,Problem Solving skills, Analytical thinking and team handling.
 
 
+
+
 <h3>🛠 Tech Skill</h3>
 
 - 💻 &nbsp; Python | R | PostGreSQL | MySQL | Advance Excel | Power BI | Tableau
+
 
 
 
