@@ -13,13 +13,13 @@
 
 - 🌱 &nbsp; Learning Data Analysis,Machine Learning and NLP.
 
-- ✍️ &nbsp; I’m currently working on Business Intelligence Projects.
+- ✍️ &nbsp; I’m currently working on Business Intelligence Projects @iNeuron
 
 
 
 <h3>🛠 Tech Skill</h3>
 
-- 💻 &nbsp; Python | R | PostGreSQL | MySQL | Power BI | Tableau | Advance Excel
+- 💻 &nbsp; Python | R | PostGreSQL | MySQL | Advance Excel | Power BI | Tableau
 
 
 
