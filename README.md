@@ -7,14 +7,15 @@
 
 
 
-- 👀 &nbsp; Learning Data Science and Solving business problems through Data.
+- 👀 &nbsp; Learning Data Science and Data Analysis,Machine Learning and NLP.
 
 - 🎓 &nbsp; Google Data Analytics Professional Certificate.
 
-- 🌱 &nbsp; Learning Data Analysis,Machine Learning and NLP.
+- 🌱 &nbsp; Data driven decision maker and Solving business problems through Data.
 
 - ✍️ &nbsp; I’m currently working on Business Intelligence Projects @iNeuron
 
+- 🏢 &nbsp; Experience in Production Planning and control with demonstrating Root cause analysis,Problem Solving skills, Analytical thinking and team handling.
 
 
 <h3>🛠 Tech Skill</h3>
