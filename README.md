@@ -35,6 +35,8 @@
 
 - 🌐 &nbsp; LinkedIN @ https://www.linkedin.com/in/hiten-verma-380633225/
 
+- 👨‍💻 &nbsp; hackerrank @ https://www.hackerrank.com/hitenverma1996
+
 - 📫 &nbsp; mail @ hitenverma1996@gmail.com
 
 
