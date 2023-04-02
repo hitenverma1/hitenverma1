@@ -33,7 +33,7 @@
 
 - 👨‍💻 &nbsp; My Projects  @ https://github.com/hitenverma1
 
-- 🌐 &nbsp; LinkedIN @ https://www.linkedin.com/in/hiten-verma-380633225/
+- 🌐 &nbsp; LinkedIN @ https://www.linkedin.com/in/hiten-verma
 
 - 👨‍💻 &nbsp; hackerrank @ https://www.hackerrank.com/hitenverma1996
 
