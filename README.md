@@ -13,7 +13,7 @@
 
 - 🌱 &nbsp; Data driven decision maker and Solving business problems through Data.
 
-- ✍️ &nbsp; I’m currently working as a Data Analyst @Credgenics
+- ✍️ &nbsp; I’m currently working as a Data Analyst @RXAdvance - Nirvana Health
 
 - 🏢 &nbsp; Experience in Production Planning and control with demonstrating Root cause analysis,Problem Solving skills, Analytical thinking and team handling.
 
